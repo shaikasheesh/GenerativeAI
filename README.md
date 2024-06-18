@@ -8,3 +8,4 @@ All Applications Related to GenAI using Large Language Models
 6) Improve Customer Experience for Searching Product Catalogues using LLM : https://github.com/shaikasheesh/Sentence_Similarity_LLM
 7) Advanced RAG Pipleline for Multiple Sources : https://github.com/shaikasheesh/LLM_Agents
 8) Utilizing CrewAI Framework for creating LLM AGents to create Robust Customer Support System: https://github.com/shaikasheesh/crew_ai_agents
+9) Host Groq inferenced LLM in Hugging Face Spaces: https://huggingface.co/spaces/Asheesh18/Document_Query/tree/main
