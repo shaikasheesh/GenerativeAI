@@ -10,3 +10,4 @@ All Applications Related to GenAI using Large Language Models
 7) Utilizing CrewAI Framework for creating LLM AGents to create Robust Customer Support System: https://github.com/shaikasheesh/crew_ai_agents
 8) Host Groq inferenced LLM in Hugging Face Spaces: https://huggingface.co/spaces/Asheesh18/Document_Query/tree/main
 9) Knowledge Graph Implementation for RAG: https://github.com/shaikasheesh/Knowledge_Graph/tree/main
+10) Mimic LLM Pre-Training & Fine Tunining: https://github.com/shaikasheesh/mimic_llm
